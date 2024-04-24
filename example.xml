@@ -1,0 +1,12 @@
+<studentsList>
+    <record>
+        <firstName>Greg</firstName>
+        <lastName>Dean</lastName>
+        <certificate>True</certificate>
+    </record>
+    <record>
+        <firstName>Wirt</firstName>
+        <lastName>Wood</lastName>
+        <certificate>True</certificate>
+    </record>
+</studentsList>

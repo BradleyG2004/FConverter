@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1713978820 source:c:\users\bradlley gangnou\onedrive\desktop\fconverter\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
